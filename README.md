@@ -5,7 +5,7 @@
 ## Running it
 
 ```sh
-docker build . -t && docker run -ti x
+docker build . -t x && docker run -ti x
 ```
 
 ## Show your support
