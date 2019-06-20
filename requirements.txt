@@ -12,6 +12,7 @@ gunicorn==19.9.0
 idna==2.8
 isort==4.3.20
 itsdangerous==1.1.0
+japronto==0.1.2
 Jinja2==2.10.1
 lazy-object-proxy==1.4.1
 MarkupSafe==1.1.1
@@ -22,5 +23,6 @@ requests==2.22.0
 six==1.12.0
 typed-ast==1.4.0
 urllib3==1.25.3
+uvloop==0.12.2
 Werkzeug==0.15.4
 wrapt==1.11.2
